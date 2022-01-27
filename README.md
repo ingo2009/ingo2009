@@ -7,7 +7,7 @@
 - 💞️ 
 - 📫 How to reach me ...
 - Web: <a href="https://inka-soft.org">inka-soft.org</a>
-- Twitter: <a href="https://twitter.com/inka-soft">inkasoft</a>
+- Twitter: <a href="https://twitter.com/inkasoft">inkasoft</a>
 <!---
 professional
 https://twitter.com/inkasoft
