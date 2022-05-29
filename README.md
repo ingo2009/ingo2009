@@ -3,7 +3,7 @@
 - 🌱 As long as its open source ...
 - 🌱 I’m currently learning Python with the help of Django, Django CMS
 - 💞️ I’m using Typesetter CMS for my projects 
-- 💞️ I’m currently working on a Plugin for Typesetter to help users with language translation
+- 💞️ I’m currently working on a generic Plugin for Typesetter to help users with plugin development
 - 💞️ 
 - 📫 How to reach me ...
 - Web: <a href="https://inka-soft.org">inka-soft.org</a>
