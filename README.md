@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ingo2009
-- 👀 I’m interested in coding. Especially C, Java, Groovy, Python, HTML, CSS, JavaScript and so on
+- 👀 I’m interested in coding. Especially C, Java, Groovy, Python, MicroPython, HTML, CSS, PHP, JavaScript and so on
 - 🌱 As long as its open source ...
 - 🌱 I’m currently learning Python with the help of Django, Django CMS
 - 💞️ I’m using Typesetter CMS for my projects 
